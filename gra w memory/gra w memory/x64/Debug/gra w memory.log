@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (gra w memory.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Game.cpp
+  main.cpp
+  Generowanie kodu...
+  gra w memory.vcxproj -> C:\Users\milos\source\repos\gra w memory\x64\Debug\memory.exe
